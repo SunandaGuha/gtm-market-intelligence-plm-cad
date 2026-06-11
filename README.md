@@ -160,7 +160,7 @@ The AI-generated executive report provides:
 
 ## 📈 Interactive Tableau Dashboard
 
-🔗 [View Dashboard](https://public.tableau.com/views/GTMMarketIntelligencePLMCADSector/ExecutiveDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+🔗 [View Dashboard](https://public.tableau.com/app/profile/sunanda.guha/viz/GTM_Market_Intelligence_Executive_Pro/ExecutiveDashboard?publish=yes)
 
 ### Dashboard Highlights
 
