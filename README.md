@@ -259,7 +259,7 @@ Potential future improvements include:
 Data Analyst | Business Analyst | AI & Data Analytics Professional
 
 - 🔗 [LinkedIn](https://linkedin.com/in/sunandaguha)
-- 📊 [Tableau Dashboard](https://public.tableau.com/views/GTMMarketIntelligencePLMCADSector/ExecutiveDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/sunanda.guha/viz/GTM_Market_Intelligence_Executive_Pro/ExecutiveDashboard?publish=yes)
 
 ---
 
